@@ -1,3 +1,4 @@
+```javascript
 const RyvData = {
     name: "Ryv",
     age: 19,
@@ -15,3 +16,4 @@ const RyvData = {
 }
 
 console.log(RyvData)
+```
