@@ -1,7 +1,7 @@
 ```javascript
 const RyvData = {
     name: "Ryv",
-    age: 20,
+    age: 21,
     skills: [
         "JavaScript",
         "Developer Discord Bots",
@@ -12,7 +12,7 @@ const RyvData = {
         "make a discord bot": true,
         "travel around the world": loading()
     },
-    loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Code"]
+    loves: ["Hambuguer", "Ice Cream", "Rock Music", "Code"]
 }
 
 console.log(RyvData)
